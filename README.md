@@ -1,4 +1,4 @@
-# datos-clima
+# climate database 1980-2020
 En este repositorio se encuentran los datos del proyecto. Existen tres archivos principales: 
 
 - Base de Datos, con los datos climáticos de Magdalena y Santander entre 1980-2020.
